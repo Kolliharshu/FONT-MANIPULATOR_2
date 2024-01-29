@@ -1,0 +1,28 @@
+canvas 
+{
+border: white;
+border-radius: 3px;
+}
+.heading
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+.note
+{
+    font-size: 20px;
+}
+
+body
+{
+    background-size: cover;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    background-color: grey;
+    line-height: 3;
+    text-align:center;
+}
